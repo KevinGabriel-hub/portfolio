@@ -55,24 +55,18 @@ export const menus: MenuData[] = [
   },
   {
     id: 4,
-    label: 'blog',
-    Icon: FaRegNewspaper,
-    Component: DevBlogs,
-  },
-  {
-    id: 5,
     label: 'stats',
     Icon: MdDashboard,
     Component: Stats,
   },
   {
-    id: 6,
+    id: 5,
     label: 'contact',
     Icon: FiSend,
     Component: Contact,
   },
   {
-    id: 7,
+    id: 6,
     label: 'guest book',
     Icon: MdComputer,
     Component: GuestBook,
@@ -82,51 +76,27 @@ export const menus: MenuData[] = [
 export const socialMedia: SocialMedia[] = [
   {
     id: 1,
-    Icon: FaDev,
-    label: 'Dev',
-    logoColor: 'black',
-    mediaUrl: 'https://www.dev.to/arafat4693',
-    info: 'Follow me and read my articles on Dev.to',
-  },
-  {
-    id: 2,
-    Icon: FaFacebookF,
-    label: 'Facebook',
-    logoColor: '#3b5998',
-    mediaUrl: 'https://www.facebook.com/md.sunny.58910049',
-    info: 'Follow me on Facebook',
-  },
-  {
-    id: 3,
     Icon: AiOutlineGithub,
     label: 'Github',
     logoColor: '#171515',
-    mediaUrl: 'https://www.github.com/arafat4693',
+    mediaUrl: 'https://github.com/KevinGabriel-hub',
     info: 'Star my projects on Github',
   },
   {
-    id: 4,
+    id: 2,
     Icon: AiFillLinkedin,
     label: 'Linkedin',
     logoColor: '#0072b1',
-    mediaUrl: 'https://www.linkedin.com/in/arafat-islam-sunny',
+    mediaUrl: 'http://www.linkedin.com/in/kevin-gabriel-maranan-b94024334',
     info: "Let's connect on Linkedin",
   },
   {
-    id: 5,
+    id: 3,
     Icon: FaDiscord,
     label: 'Discord',
     logoColor: '#5865f2',
     mediaUrl: 'https://www.discord.com',
-    info: "Let's chat on Discord. My username - Tyrant#4185",
-  },
-  {
-    id: 6,
-    Icon: SiFiverr,
-    label: 'Fiverr',
-    logoColor: '#00b22d',
-    mediaUrl: 'https://www.fiverr.com/sunnyislam990',
-    info: 'Hire me on fiverr as freelancer',
+    info: "Let's chat on Discord. My username - kevin_65737_25401",
   },
 ];
 
@@ -196,7 +166,7 @@ export const quoteData: TestimonialData = {
 export const statisticsData: StatisticsData[] = [
   {
     title: 'stack',
-    info: 'MERN or T3',
+    info: 'Full Stack',
   },
   {
     title: 'projects',

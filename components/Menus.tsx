@@ -29,7 +29,7 @@ export default function Menus({ showSideMenu }: Props) {
 
       {/* guest book btn */}
       <div
-        onClick={() => currentMenu(7)}
+        onClick={() => currentMenu(6)}
         className="h-[7.2rem] rounded-lg bg-gray-900 flex items-center justify-center cursor-pointer group"
       >
         <div className="relative">
