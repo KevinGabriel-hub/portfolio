@@ -106,28 +106,36 @@ export const services: ServiceData[] = [
     title: 'Front-end',
     Icon: SiNextdotjs,
     description:
-      'Modern and mobile-ready website that will help you reach all of your marketing.',
+      `Create responsive, dynamic, and user-friendly interfaces using modern frameworks like React, Vue.js, and Angular.
+Ensure seamless cross-device compatibility and pixel-perfect designs that elevate user experiences.
+Optimize front-end performance for faster loading times and improved usability.`,
   },
   {
     id: 2,
     title: 'Back-end',
     Icon: SiNodedotjs,
     description:
-      'Backend services using Java, Node.js, and .NET, with AWS integration',
+      `Build robust, scalable, and secure server-side solutions using Node.js, Python, or Java.
+Design and implement RESTful APIs, microservices architecture, and database integrations.
+Ensure efficient handling of data and high performance for complex applications.`,
   },
   {
     id: 3,
     title: 'UI/UX design',
     Icon: SiFigma,
     description:
-      'Modern user Interface trends with a highly professional and unique design.',
+      `Deliver intuitive and visually engaging designs that prioritize user-centric experiences.
+Conduct in-depth user research, wireframing, and prototyping to align designs with client goals.
+Ensure designs are accessible, interactive, and aligned with current design trends.`,
   },
   {
     id: 4,
     title: 'DevOps',
     Icon: SiFirebase,
     description:
-      'Streamlined CI/CD with Docker and AWS, ensuring consistent environments across development, staging, and production.',
+      `Streamline deployment processes through CI/CD pipelines and automated workflows.
+Implement scalable infrastructure using tools like Docker, Kubernetes, and cloud platforms like AWS or Azure.
+Enhance development efficiency by monitoring and optimizing system performance.`,
   },
 ];
 
